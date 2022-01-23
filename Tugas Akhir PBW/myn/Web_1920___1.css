@@ -1,0 +1,553 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 2753px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#logo {
+	position: absolute;
+	width: 75px;
+	height: 38px;
+	left: 110px;
+	top: 51px;
+	overflow: visible;
+}
+#logo_l {
+	position: absolute;
+	width: 75px;
+	height: 38px;
+	left: 305px;
+	top: 2442px;
+	overflow: visible;
+}
+#Home {
+	left: 1433px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,202,153,1);
+	letter-spacing: -0.58px;
+}
+#Catalog {
+	left: 1523px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.58px;
+}
+#Explore_Nowe {
+	left: 1561px;
+	top: 235px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.06px;
+}
+#Vector_Art {
+	left: 700px;
+	top: 939px;
+	position: absolute;
+	overflow: visible;
+	width: 89px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.25px;
+}
+#MYN_adalah_sebuah_platform_unt {
+	left: 305px;
+	top: 2512px;
+	position: absolute;
+	overflow: visible;
+	width: 403px;
+	white-space: nowrap;
+	line-height: 29px;
+	margin-top: -6.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.56px;
+}
+#n_2_82243868807 {
+	left: 305px;
+	top: 2613px;
+	position: absolute;
+	overflow: visible;
+	width: 144px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.52px;
+}
+#Vector_Art_s {
+	left: 974px;
+	top: 2565px;
+	position: absolute;
+	overflow: visible;
+	width: 82px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#Overview {
+	left: 965px;
+	top: 2511px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#Company {
+	left: 1186px;
+	top: 2511px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#Explore {
+	left: 1403px;
+	top: 2510px;
+	position: absolute;
+	overflow: visible;
+	width: 74px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#About_ {
+	left: 1194px;
+	top: 2565px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#Term__Conds {
+	left: 1414px;
+	top: 2565px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#Illustrator {
+	left: 974px;
+	top: 2595px;
+	position: absolute;
+	overflow: visible;
+	width: 79px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#Career {
+	left: 1194px;
+	top: 2595px;
+	position: absolute;
+	overflow: visible;
+	width: 52px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#Privacy_Policy {
+	left: 1414px;
+	top: 2595px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#Branding {
+	left: 974px;
+	top: 2625px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#Contact_Us {
+	left: 1194px;
+	top: 2625px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#For_Developer {
+	left: 1414px;
+	top: 2625px;
+	position: absolute;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 17px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.16px;
+}
+#myndesignercom {
+	left: 305px;
+	top: 2661px;
+	position: absolute;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	line-height: 27px;
+	margin-top: -5.5px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.52px;
+}
+#Temukan_inspirasi_Designer_yan {
+	left: 594px;
+	top: 840px;
+	position: absolute;
+	overflow: visible;
+	width: 714px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(0,0,0,1);
+}
+#Illustrator_ {
+	left: 908px;
+	top: 939px;
+	position: absolute;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.25px;
+}
+#Branding_ {
+	left: 1116px;
+	top: 939px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.25px;
+}
+#Designer {
+	left: 1624px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___3.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.58px;
+}
+#Login {
+	left: 1735px;
+	top: 52px;
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___4.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.58px;
+}
+#Head {
+	position: absolute;
+	width: 1031px;
+	height: 569px;
+	left: 343px;
+	top: 153px;
+	overflow: visible;
+}
+#Carilah_apa_yang_kamu_butuhkan {
+	left: 527px;
+	top: 442px;
+	position: absolute;
+	overflow: visible;
+	width: 311px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.51px;
+}
+#Portofolio {
+	left: 568px;
+	top: 318px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 49px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.07px;
+}
+#Home4 {
+	position: absolute;
+	width: 833px;
+	height: 557px;
+	left: 984px;
+	top: 1639px;
+	overflow: visible;
+}
+#Home1 {
+	position: absolute;
+	width: 829px;
+	height: 558px;
+	left: 85px;
+	top: 1042px;
+	overflow: visible;
+}
+#Home2 {
+	position: absolute;
+	width: 833px;
+	height: 557px;
+	left: 984px;
+	top: 1042px;
+	overflow: visible;
+}
+#Home3 {
+	position: absolute;
+	width: 830px;
+	height: 557px;
+	left: 85px;
+	top: 1639px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	fill: rgba(255,202,153,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	height: 49px;
+	left: 860px;
+	top: 2243px;
+}
+#Load_More {
+	left: 903px;
+	top: 2254px;
+	position: absolute;
+	overflow: visible;
+	width: 95px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.25px;
+}

@@ -1,0 +1,324 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 5;
+	--web-view-id: Web_1920__5;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__5;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__5 {
+	position: absolute;
+	width: 1920px;
+	height: 1170px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 5;
+	--web-view-id: Web_1920__5;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_7_d {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_7_d {
+	filter: drop-shadow(3px 2px 85px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 838px;
+	height: 1154px;
+	left: 1092px;
+	top: 177px;
+}
+#logo_d {
+	position: absolute;
+	width: 75px;
+	height: 38px;
+	left: 1092px;
+	top: 70px;
+	overflow: visible;
+}
+#Sign_Up {
+	left: 1092px;
+	top: 109px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 34px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.27px;
+}
+#Nama_Lengkap {
+	left: 1145px;
+	top: 235px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(151,151,151,1);
+}
+#No_Handphone {
+	left: 1145px;
+	top: 455px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(151,151,151,1);
+}
+#Alamat {
+	left: 1145px;
+	top: 565px;
+	position: absolute;
+	overflow: visible;
+	width: 44px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(151,151,151,1);
+}
+#Password_ea {
+	left: 1145px;
+	top: 735px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(151,151,151,1);
+}
+#Confirm_Password {
+	left: 1145px;
+	top: 845px;
+	position: absolute;
+	overflow: visible;
+	width: 112px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(151,151,151,1);
+}
+#Email_Address_ec {
+	left: 1145px;
+	top: 345px;
+	position: absolute;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(151,151,151,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 322px;
+	height: 47px;
+	left: 1146px;
+	top: 947px;
+	overflow: visible;
+}
+#Rectangle_10_ee {
+	fill: rgba(255,202,153,1);
+}
+.Rectangle_10_ee {
+	position: absolute;
+	overflow: visible;
+	width: 322px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#Create_Account {
+	left: 94px;
+	top: 11px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.24px;
+}
+#Rectangle_8_eg {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8_eg {
+	position: absolute;
+	overflow: visible;
+	width: 481px;
+	height: 44px;
+	left: 1143px;
+	top: 261px;
+}
+#Rectangle_11 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 481px;
+	height: 44px;
+	left: 1143px;
+	top: 481px;
+}
+#Rectangle_14 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 479px;
+	height: 107px;
+	left: 1146px;
+	top: 591px;
+}
+#Rectangle_12 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 481px;
+	height: 44px;
+	left: 1143px;
+	top: 761px;
+}
+#Rectangle_13 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 481px;
+	height: 44px;
+	left: 1143px;
+	top: 871px;
+}
+#Rectangle_9_el {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_9_el {
+	position: absolute;
+	overflow: visible;
+	width: 481px;
+	height: 44px;
+	left: 1143px;
+	top: 371px;
+}
+#loginimage_em {
+	position: absolute;
+	width: 754px;
+	height: 1170px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Back_to_Sign_In {
+	left: 1320px;
+	top: 1026px;
+	position: absolute;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___4.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 19px;
+	color: rgba(151,151,151,1);
+	letter-spacing: 0.13px;
+}
